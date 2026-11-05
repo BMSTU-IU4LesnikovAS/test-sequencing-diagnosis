@@ -1,0 +1,4 @@
+m,n_opt,Greedy (IG/cost) gap %,Greedy (IG/cost) ms,Greedy (balance/cost) gap %,Greedy (balance/cost) ms,Rollout gap %,Rollout ms,SA (static order) gap %,SA (static order) ms
+20,100,4.88 ± 5.33,0.2,3.44 ± 5.36,0.2,1.38 ± 2.03,3.0,3.65 ± 2.58,146.0
+30,100,6.69 ± 10.18,0.5,3.67 ± 6.09,0.4,2.01 ± 3.83,9.9,5.32 ± 3.31,223.7
+40,46,6.56 ± 6.84,0.9,4.79 ± 6.54,0.7,2.30 ± 2.95,27.9,7.81 ± 3.74,401.2

@@ -1,0 +1,7 @@
+A,B,median gap A-B (pp),p,p Holm
+Greedy (IG/cost),Greedy (balance/cost),1.134,1.140882703105943e-26,4.563530812423772e-26
+Greedy (IG/cost),Rollout,2.322,5.498476850776494e-42,3.299086110465896e-41
+Greedy (IG/cost),SA (static order),-0.482,0.14692152804016098,0.14692152804016098
+Greedy (balance/cost),Rollout,0.571,5.304388714585915e-12,1.060877742917183e-11
+Greedy (balance/cost),SA (static order),-2.157,9.887196836754913e-13,2.966159051026474e-12
+Rollout,SA (static order),-3.157,2.0443764692059694e-33,1.0221882346029847e-32

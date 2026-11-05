@@ -1,0 +1,6 @@
+set,m,n,density,DP+Huff solved≤60s %,DP+Huff t med,BB solved %,BB t med,BB+Huff solved %,BB+Huff t med,BB+Huff+Cover solved %,BB+H+C t med
+ISCAS,20,100,0.25,100.0,0.02,100.0,0.02,100.0,0.02,100.0,0.11
+ISCAS,30,100,0.25,100.0,0.27,100.0,0.19,100.0,0.16,100.0,0.83
+ISCAS,40,50,0.25,84.0,3.95,96.0,1.35,98.0,1.03,94.0,4.25
+synthetic,60,30,0.4,100.0,1.51,50.0,inf,100.0,0.92,100.0,4.95
+synthetic,80,30,0.39,77.0,11.15,47.0,inf,100.0,3.89,83.0,18.07

@@ -1,0 +1,2 @@
+8a0b4d2ca0e85e9d2425a96212605e5327a22c61 Wed Apr 29 19:00:00 2026 -0500
+https://github.com/santoshsmalagi/Benchmarks (ISCAS85 Verilog netlists)

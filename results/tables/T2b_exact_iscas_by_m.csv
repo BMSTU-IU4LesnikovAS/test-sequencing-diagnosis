@@ -1,0 +1,4 @@
+m,instances,solved_%,time_median_s,time_max_s,states_median,solved_within_nobound_limit_%,nobound_solved_%,nobound_time_median_s
+20,100,100.0,0.02,0.38,791.5,100.0,100.0,0.01
+30,100,100.0,0.27,11.6,8487.5,100.0,100.0,0.2
+40,50,92.0,3.95,155.45,71896.0,72.0,84.0,2.48
